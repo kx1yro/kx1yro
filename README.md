@@ -3,7 +3,8 @@
 # 🥤⚡ Kairo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=UK+chaos+gremlin;SCP+Archivist;Ninjago+Enthusiast;Running+on+Red+Bull+%26+poor+decisions" />
-
+<div align="center">
+</div>
 <img src="https://img.shields.io/badge/status-powered%20by%20Redbull-3b82f6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/brain%20cell-unstable-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SCP%20lore-deep%20diver-6d28d9?style=for-the-badge" />
