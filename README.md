@@ -1,87 +1,236 @@
 <div align="center">
 
-# 📦 Stash
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=100&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Project+Lead+%40+Stash;Building+tools+for+storing+and+managing+data;Turning+ideas+into+working+products;Development%2C+design+%26+infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=700&color=F59E0B&center=true&vCenter=true&repeat=false&width=700&lines=bone;developer;builder;project+lead" alt="bone typing header" />
 
-<img src="https://img.shields.io/badge/Project%20Lead-Stash-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Development-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Building-10B981?style=for-the-badge" />
+<br>
+
+<img src="https://img.shields.io/badge/kx1yro-F59E0B?style=for-the-badge&labelColor=0D0D0D" alt="kx1yro" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-10B981?style=for-the-badge&labelColor=0D0D0D" alt="status" />
+
+<br><br>
+
+<b>developer • builder • project lead</b>
+
+<br>
+<sub>📦 Building things, breaking things, and occasionally making them work.</sub>
 
 </div>
 
----
-
-## 📦 About Stash
-
-**Stash** is a project focused on making data storage simple, accessible and reliable.
-
-I'm currently leading the project while working across the development, design and infrastructure side of things.
-
-> **Store your data.**
-
----
-
-## 🛠️ What I'm Building
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1100&color=F59E0B&width=650&lines=Building+Stash...;Designing+the+experience...;Developing+the+backend...;Improving+the+infrastructure...;Shipping+things+that+actually+work..." />
-
-* 📦 **Stash** — data storage and management
-* 🌐 Web applications and services
-* 🔐 Authentication and account systems
-* ⚙️ Backend infrastructure
-* 🎨 Product interfaces and UX
-* 💬 Community and support systems
-
----
-
-## 💻 Tech
+<br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,cloudflare" />
-
-</div>
-
----
-
-## 🚀 Current Focus
 
 ```text
-[████████████████████░░] Stash
-[██████████████████░░░░] Development
-[████████████████░░░░░░] Infrastructure
-[██████████████░░░░░░░░] Design
+┌──────────────────────────────────────────────────────────────┐
+│ ● ● ●    bone@stash: ~                                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  bone                                                        │
+│  Developer • Builder • Project Lead                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-> Build it. Test it. Break it. Fix it. Ship it.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kx1yro&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B" />
 
 </div>
 
----
+## `$ cat bio.txt`
 
-## 🌐 Stash
+```text
+I'm bone.
 
-**Stash — Store your data.**
+Also known as kx1yro.
 
-🌐 Website: **[Coming soon]**
-💬 Community: **[Discord]**
-📚 Documentation: **[Coming soon]**
+I'm a developer focused on building software,
+systems and products.
 
----
+Currently spending most of my time building Stash.
+
+I like turning ideas into things that actually work.
+```
+
+## `$ ls`
+
+```text
+bone/
+├── 📦 stash/
+├── 💻 development/
+├── ⚙️ infrastructure/
+├── 🧠 systems/
+├── 🎨 design/
+└── 🔧 tools/
+```
+
+## `$ cd stash && cat README.md`
 
 <div align="center">
 
-### 📦 Building Stash, one commit at a time.
+### 📦 STASH
 
-`© 2026 Stash`
+**Store your data.**
+
+`STATUS: ACTIVE DEVELOPMENT`
+
+</div>
+
+```text
+Stash is my main project.
+
+A platform focused on making data storage
+simple, accessible and reliable.
+
+I'm currently working across:
+
+    ├── product
+    ├── frontend
+    ├── backend
+    ├── authentication
+    ├── databases
+    ├── infrastructure
+    └── deployment
+```
+
+```text
+$ git status
+
+On branch main
+
+Changes currently being made:
+    + new features
+    + infrastructure
+    + backend systems
+    + UI improvements
+
+nothing is ever truly finished.
+```
+
+## `$ cat skills.txt`
+
+```text
+┌─ DEVELOPMENT ────────────────────────────────────────────────┐
+
+  TypeScript     ████████████████████░░
+  JavaScript     ████████████████████░░
+  React          ██████████████████░░░░
+  Node.js        ███████████████████░░░
+  Python         ████████████████░░░░░
+  Lua            ██████████████░░░░░░░
+
+└──────────────────────────────────────────────────────────────┘
+```
+
+### `$ which tools`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,lua,html,css,git,github,docker,cloudflare" />
+
+</div>
+
+## `$ ps aux`
+
+```text
+USER      PROCESS                         STATUS
+───────────────────────────────────────────────────────────────
+bone      stash                           RUNNING
+bone      backend                         RUNNING
+bone      infrastructure                  RUNNING
+bone      product-development             RUNNING
+bone      probably-fixing-something       RUNNING
+```
+
+## `$ cat philosophy.txt`
+
+```text
+Build it.
+        ↓
+Test it.
+        ↓
+Break it.
+        ↓
+Fix it.
+        ↓
+Ship it.
+        ↓
+Improve it.
+        ↓
+Repeat.
+```
+
+> Software isn't finished when it works.
+> It's finished when it works well enough to build the next thing.
+
+## `$ git log --oneline`
+
+```text
+████████  building Stash
+███████   improving infrastructure
+██████    writing backend systems
+█████     designing new features
+████      probably debugging
+███       repeat
+```
+
+## `$ neofetch`
+
+```text
+        ██████╗  ██████╗ ███╗   ██╗███████╗
+        ██╔══██╗██╔═══██╗████╗  ██║██╔════╝
+        ██████╔╝██║   ██║██╔██╗ ██║█████╗
+        ██╔══██╗██║   ██║██║╚██╗██║██╔══╝
+        ██████╔╝╚██████╔╝██║ ╚████║███████╗
+        ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+
+        bone@github
+        ───────────────────────────────
+        OS:        Linux
+        Shell:     bash
+        Editor:    VS Code
+        Focus:     Development
+        Project:   Stash
+        Status:    Building
+```
+
+## `$ ls ~/links`
+
+```text
+📦 stash        →  Main Project
+🐙 github       →  github.com/kx1yro
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-kx1yro-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B)](https://github.com/kx1yro)
+
+</div>
+
+## `$ uptime`
+
+```text
+Project       : Stash
+Role          : Developer / Project Lead
+Status        : 🟢 Building
+Current task  : Making things work
+Next task     : Making them work better
+```
+
+<div align="center">
+
+```text
+$ echo "thanks for stopping by"
+
+thanks for stopping by.
+
+$ █
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=80&section=footer" width="100%" />
+
+<sub>bone / kx1yro · 2026</sub>
 
 </div>
