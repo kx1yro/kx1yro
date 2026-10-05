@@ -62,7 +62,7 @@ I'm currently leading the project while working across the development, design a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B" />
+<img src="https://github-readme-stats.vercel.app/api?username=kx1yro&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B" />
 
 </div>
 
