@@ -1,84 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=180&section=header&text=Kayne&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=developer%20%C2%B7%20builder%20%C2%B7%20community%20advisor&descSize=18&descAlignY=60" width="100%" alt="Kayne header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0714,45:4C1D95,100:F5C451&height=260&section=header&text=KAYNE&fontSize=84&fontColor=F5C451&fontAlignY=42&stroke=7C3AED&strokeWidth=2&animation=fadeIn&desc=%E2%9C%A6%20community%20advisor%20%C2%B7%20developer%20%C2%B7%20builder%20%E2%9C%A6&descSize=20&descColor=E9D5FF&descAlignY=64" width="100%" alt="Kayne" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Community+Advisor+%40+RoGoid.;Turning+ideas+into+things+that+work.;Shipping+one+commit+at+a+time." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=F5C451&center=true&vCenter=true&width=700&lines=%E2%99%9B+Community+Advisor+%40+RoGoid;Crafting+software+with+intention;Turning+ideas+into+things+that+work;Shipping+one+commit+at+a+time" alt="typing intro" />
 
-<br>
+<br><br>
 
-<a href="https://github.com/kx1yro"><img src="https://img.shields.io/badge/GitHub-kx1yro-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B12" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Community%20Advisor-RoGoid-22D3EE?style=for-the-badge&labelColor=0B0B12" alt="Community Advisor @ RoGoid" />
+<a href="https://github.com/kx1yro"><img src="https://img.shields.io/badge/GITHUB-kx1yro-7C3AED?style=for-the-badge&logo=github&logoColor=F5C451&labelColor=0B0714" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/ROLE-COMMUNITY%20ADVISOR-F5C451?style=for-the-badge&labelColor=0B0714" alt="Role" />
+<img src="https://img.shields.io/badge/ORG-ROGOID-7C3AED?style=for-the-badge&labelColor=0B0714" alt="RoGoid" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:F5C451,100:0B0714&height=2" width="80%" alt="divider" />
 
 </div>
 
 <br>
-
-## 👋 About
-
-Hey, I'm **Kayne** (also known as `kx1yro`).
-
-I'm the **Community Advisor at RoGoid**, and a developer who likes building software, systems and products. I enjoy turning ideas into things that actually work.
-
-<br>
-
-## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,lua,html,css,git,github,docker,cloudflare&theme=dark" alt="tech stack" />
+## ✦ &nbsp;A B O U T&nbsp; ✦
 
 </div>
 
-<br>
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="720">
 
-**Languages**
-- TypeScript
-- JavaScript
-- Python
-- Lua
+<br>
 
-</td>
-<td width="50%" valign="top">
+I'm **Kayne**, also known as `kx1yro`.
 
-**Platform & Tools**
-- React
-- Node.js
-- Docker
-- Cloudflare
-- Git / GitHub
+As **Community Advisor at RoGoid**, I help shape and support a community.
+As a **developer**, I build software, systems and products that actually work.
+
+<sub>*Quiet craft. Loud results.*</sub>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 🔁 How I work
-
-```text
-Build  →  Test  →  Break  →  Fix  →  Ship  →  Improve  →  Repeat
-```
-
-> *Software isn't finished when it works. It's finished when it works well enough to build the next thing.*
+</div>
 
 <br>
-
-## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kx1yro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B12&title_color=A78BFA&icon_color=22D3EE" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx1yro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0B12&title_color=A78BFA" alt="Top languages" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:7C3AED,100:0B0714&height=2" width="60%" alt="divider" />
+
+## ✦ &nbsp;T H E &nbsp; S T A C K&nbsp; ✦
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,lua&theme=dark&perline=6" alt="languages and frameworks" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,docker,cloudflare&theme=dark&perline=6" alt="tools" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="360">
+
+**⚔️ Languages**
+
+`TypeScript` · `JavaScript`<br>`Python` · `Lua`
+
+</td>
+<td align="center" width="360">
+
+**🏰 Platform & Tools**
+
+`React` · `Node.js` · `Docker`<br>`Cloudflare` · `Git`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-## 💻 Terminal
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:F5C451,100:0B0714&height=2" width="60%" alt="divider" />
+
+## ✦ &nbsp;C R E E D&nbsp; ✦
+
+```text
+ Build  ◈  Test  ◈  Break  ◈  Fix  ◈  Ship  ◈  Improve  ◈  Repeat
+```
+
+<sub><i>Software isn't finished when it works.<br>It's finished when it works well enough to build the next thing.</i></sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:7C3AED,100:0B0714&height=2" width="60%" alt="divider" />
+
+## ✦ &nbsp;T H E &nbsp; R E C O R D&nbsp; ✦
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kx1yro&show_icons=true&hide_border=false&border_color=2E1065&bg_color=0B0714&title_color=F5C451&icon_color=A78BFA&text_color=E9D5FF&ring_color=F5C451" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx1yro&layout=compact&hide_border=false&border_color=2E1065&bg_color=0B0714&title_color=F5C451&text_color=E9D5FF" alt="Top languages" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kx1yro&bg_color=0B0714&color=E9D5FF&line=F5C451&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&hide_title=true" width="95%" alt="Contribution activity" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:F5C451,100:0B0714&height=2" width="60%" alt="divider" />
+
+## ✦ &nbsp;T E R M I N A L&nbsp; ✦
+
+</div>
 
 ```text
         ██╗  ██╗ █████╗ ██╗   ██╗███╗   ██╗███████╗
@@ -88,26 +133,29 @@ Build  →  Test  →  Break  →  Fix  →  Ship  →  Improve  →  Repeat
         ██║  ██╗██║  ██║   ██║   ██║ ╚████║███████╗
         ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝
 
-        kayne@github
-        ───────────────────────────────
-        Handle:    kx1yro
-        Role:      Community Advisor
-        Org:       RoGoid
-        OS:        Linux
-        Editor:    VS Code
-        Status:    🟢 Building
+        ♛  kayne@github
+        ─────────────────────────────────
+        Handle     kx1yro
+        Role       Community Advisor
+        Org        RoGoid
+        Craft      Development
+        OS         Linux
+        Editor     VS Code
+        Status     🟢 Building
 ```
 
 <br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-kx1yro-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B12)](https://github.com/kx1yro)
+<a href="https://github.com/kx1yro"><img src="https://img.shields.io/badge/%E2%9C%A6%20FOLLOW%20ON%20GITHUB%20%E2%9C%A6-kx1yro-F5C451?style=for-the-badge&logo=github&logoColor=0B0714&labelColor=7C3AED" alt="Follow on GitHub" /></a>
 
-<sub>Thanks for stopping by.</sub>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=90&section=footer" width="100%" alt="footer" />
+<sub>✦ thank you for stopping by ✦</sub>
 
-<sub>Kayne / kx1yro · 2026</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C451,45:4C1D95,100:0B0714&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
+
+<sub>KAYNE · kx1yro · 2026</sub>
 
 </div>
